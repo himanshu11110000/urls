@@ -14,3 +14,7 @@ https://user-images.githubusercontent.com/85114784/135023672-5690d519-8451-48a5-
 ![pending](https://user-images.githubusercontent.com/85114784/153587319-893c8ab1-7f30-4da0-945f-3168cf45d86c.png)
 
 https://winzo.onelink.me/gu8K/1f79bccc
+![search](https://user-images.githubusercontent.com/85114784/179730888-3d2207c2-962d-4987-abf8-90377d4bd8cf.png)
+![leaderboard](https://user-images.githubusercontent.com/85114784/179731072-4a75e5bf-d7b2-4a7c-bbea-88cd324c0785.png)
+![streaks](https://user-images.githubusercontent.com/85114784/179731188-74ceff7b-8183-4cae-9ec4-d1b008ba6f95.png)
+![offers](https://user-images.githubusercontent.com/85114784/179731271-0b2896f3-e052-4dd1-9a45-d3372368ccd2.png)
