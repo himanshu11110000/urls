@@ -21,4 +21,4 @@ https://winzo.onelink.me/gu8K/1f79bccc
 ![number_bg](https://user-images.githubusercontent.com/85114784/180722947-804817ec-cc88-4d79-ab91-45fc35a8d99f.png)
 ![zig_zag_bg](https://user-images.githubusercontent.com/85114784/180723228-1bb3b2a5-ccbd-4a7c-b0aa-b31d03c6a27f.png)
 ![zig_zag_bg](https://user-images.githubusercontent.com/85114784/180725430-3a8a4395-4b1f-4318-98e3-91ab1211b2b9.png)
-
+![take_a_break](https://user-images.githubusercontent.com/85114784/185582429-327ab6a4-12e9-4635-9a29-907bee701063.png)
