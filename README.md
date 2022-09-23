@@ -23,3 +23,6 @@ https://winzo.onelink.me/gu8K/1f79bccc
 ![zig_zag_bg](https://user-images.githubusercontent.com/85114784/180725430-3a8a4395-4b1f-4318-98e3-91ab1211b2b9.png)
 ![take_a_break](https://user-images.githubusercontent.com/85114784/185582429-327ab6a4-12e9-4635-9a29-907bee701063.png)
 ![p2ePlayer](https://user-images.githubusercontent.com/85114784/191944564-58fcaf3f-a80e-40dc-9b02-d277cde672bb.png)
+![winzo](https://user-images.githubusercontent.com/85114784/191945633-3ab6a4f6-f0a8-4f0b-be4c-bd14a9789cf1.png)
+![playerProfile](https://user-images.githubusercontent.com/85114784/191945649-9b7cda72-c2e1-4456-933a-d2bb49575030.png)
+![indiaFlag](https://user-images.githubusercontent.com/85114784/191945671-bf71428f-65d0-46fe-9ce7-d77a09952ca2.png)
