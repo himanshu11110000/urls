@@ -32,4 +32,6 @@ https://winzo.onelink.me/gu8K/1f79bccc
 ![group_24](https://user-images.githubusercontent.com/85114784/233973918-544437a2-823c-49f2-812a-81e3e57b16ed.png)
 ![group_20](https://user-images.githubusercontent.com/85114784/233973490-982d88bb-ce8c-4cea-8e62-659237e1e140.png)
 ![group_23](https://user-images.githubusercontent.com/85114784/233973739-3e168260-e230-4816-b886-49b468f965fb.png)
+![game_2048](https://github.com/TarunSainiZO/urls/assets/85114784/14dfeb94-8318-4845-aab6-bf4ac9b62d0d)
 
+![game_piano_tiles](https://github.com/TarunSainiZO/urls/assets/85114784/3a2fcdbe-d279-4bed-b6c9-7a22339d4db8)
