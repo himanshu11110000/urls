@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/85114784/135023672-5690d519-8451-48a5-
 ![wrong](https://user-images.githubusercontent.com/85114784/153587307-c319746e-7e38-4175-9eed-ed80924cb4e5.png)
 ![right](https://user-images.githubusercontent.com/85114784/153587316-fe97ae13-9fb2-4c0f-a452-a7109cc26c65.png)
 ![pending](https://user-images.githubusercontent.com/85114784/153587319-893c8ab1-7f30-4da0-945f-3168cf45d86c.png)
+[Archive.zip](https://github.com/TarunSainiZO/urls/files/12160746/Archive.zip)
 
 https://winzo.onelink.me/gu8K/1f79bccc
 ![search](https://user-images.githubusercontent.com/85114784/179730888-3d2207c2-962d-4987-abf8-90377d4bd8cf.png)
@@ -21,7 +22,8 @@ https://winzo.onelink.me/gu8K/1f79bccc
 ![number_bg](https://user-images.githubusercontent.com/85114784/180722947-804817ec-cc88-4d79-ab91-45fc35a8d99f.png)
 ![zig_zag_bg](https://user-images.githubusercontent.com/85114784/180723228-1bb3b2a5-ccbd-4a7c-b0aa-b31d03c6a27f.png)
 ![zig_zag_bg](https://user-images.githubusercontent.com/85114784/180725430-3a8a4395-4b1f-4318-98e3-91ab1211b2b9.png)
-![take_a_break](https://user-images.githubusercontent.com/85114784/185582429-327ab6a4-12e9-4635-9a29-907bee701063.png)
+![take_a_break](https://user-images.githubusercontent.com/85114784/18558242[Archive.zip](https://github.com/TarunSainiZO/urls/files/12160678/Archive.zip)
+9-327ab6a4-12e9-4635-9a29-907bee701063.png)
 ![p2ePlayer](https://user-images.githubusercontent.com/85114784/191944564-58fcaf3f-a80e-40dc-9b02-d277cde672bb.png)
 ![winzo](https://user-images.githubusercontent.com/85114784/191945633-3ab6a4f6-f0a8-4f0b-be4c-bd14a9789cf1.png)
 ![playerProfile](https://user-images.githubusercontent.com/85114784/191945649-9b7cda72-c2e1-4456-933a-d2bb49575030.png)
